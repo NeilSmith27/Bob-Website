@@ -1,0 +1,30 @@
+{
+  "name": "Bob Smith",
+  "version": "1.0.0",
+  "description": "Website for a graphic designer called Bob Smith",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeilSmith27/Bob-Website.git"
+  },
+  "keywords": [
+    "Small",
+    "node",
+    "project"
+  ],
+  "author": "Neil Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeilSmith27/Bob-Website/issues"
+  },
+  "homepage": "https://github.com/NeilSmith27/Bob-Website#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "ejs": "^2.6.1",
+    "express.js": "^1.0.0",
+    "jquery": "^3.4.0"
+  }
+}
